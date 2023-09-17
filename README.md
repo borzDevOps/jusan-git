@@ -1,3 +1,12 @@
+#NEW
+
+
+>My script username.sh outout my last name and name on free format
+
+
+
+
+
 # stepik-id-printer
 Это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org
 
