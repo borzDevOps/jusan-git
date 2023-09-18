@@ -1,3 +1,12 @@
+#NEW
+
+
+>My script username.sh outout my last name and name on free format
+
+
+
+
+
 # stepik-id-printer
 
 ![Jusan](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
